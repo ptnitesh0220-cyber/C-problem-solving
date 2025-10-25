@@ -1,2 +1,0 @@
-# C-problem-solving
-main
